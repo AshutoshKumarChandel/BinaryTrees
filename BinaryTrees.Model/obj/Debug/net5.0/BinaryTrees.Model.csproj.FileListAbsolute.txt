@@ -1,0 +1,12 @@
+/Users/admin/RiderProjects/BinaryTrees/BinaryTrees.Model/bin/Debug/net5.0/BinaryTrees.Model.deps.json
+/Users/admin/RiderProjects/BinaryTrees/BinaryTrees.Model/bin/Debug/net5.0/BinaryTrees.Model.dll
+/Users/admin/RiderProjects/BinaryTrees/BinaryTrees.Model/bin/Debug/net5.0/ref/BinaryTrees.Model.dll
+/Users/admin/RiderProjects/BinaryTrees/BinaryTrees.Model/bin/Debug/net5.0/BinaryTrees.Model.pdb
+/Users/admin/RiderProjects/BinaryTrees/BinaryTrees.Model/obj/Debug/net5.0/BinaryTrees.Model.csprojAssemblyReference.cache
+/Users/admin/RiderProjects/BinaryTrees/BinaryTrees.Model/obj/Debug/net5.0/BinaryTrees.Model.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/RiderProjects/BinaryTrees/BinaryTrees.Model/obj/Debug/net5.0/BinaryTrees.Model.AssemblyInfoInputs.cache
+/Users/admin/RiderProjects/BinaryTrees/BinaryTrees.Model/obj/Debug/net5.0/BinaryTrees.Model.AssemblyInfo.cs
+/Users/admin/RiderProjects/BinaryTrees/BinaryTrees.Model/obj/Debug/net5.0/BinaryTrees.Model.csproj.CoreCompileInputs.cache
+/Users/admin/RiderProjects/BinaryTrees/BinaryTrees.Model/obj/Debug/net5.0/BinaryTrees.Model.dll
+/Users/admin/RiderProjects/BinaryTrees/BinaryTrees.Model/obj/Debug/net5.0/ref/BinaryTrees.Model.dll
+/Users/admin/RiderProjects/BinaryTrees/BinaryTrees.Model/obj/Debug/net5.0/BinaryTrees.Model.pdb

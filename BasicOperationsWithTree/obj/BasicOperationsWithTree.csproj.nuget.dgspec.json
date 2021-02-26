@@ -1,0 +1,116 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/admin/RiderProjects/BinaryTrees/BasicOperationsWithTree/BasicOperationsWithTree.csproj": {}
+  },
+  "projects": {
+    "/Users/admin/RiderProjects/BinaryTrees/BasicOperationsWithTree/BasicOperationsWithTree.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/admin/RiderProjects/BinaryTrees/BasicOperationsWithTree/BasicOperationsWithTree.csproj",
+        "projectName": "BasicOperationsWithTree",
+        "projectPath": "/Users/admin/RiderProjects/BinaryTrees/BasicOperationsWithTree/BasicOperationsWithTree.csproj",
+        "packagesPath": "/Users/admin/.nuget/packages/",
+        "outputPath": "/Users/admin/RiderProjects/BinaryTrees/BasicOperationsWithTree/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/admin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/admin/RiderProjects/BinaryTrees/BinaryTrees.Model/BinaryTrees.Model.csproj": {
+                "projectPath": "/Users/admin/RiderProjects/BinaryTrees/BinaryTrees.Model/BinaryTrees.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/admin/.dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/admin/RiderProjects/BinaryTrees/BinaryTrees.Model/BinaryTrees.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/admin/RiderProjects/BinaryTrees/BinaryTrees.Model/BinaryTrees.Model.csproj",
+        "projectName": "BinaryTrees.Model",
+        "projectPath": "/Users/admin/RiderProjects/BinaryTrees/BinaryTrees.Model/BinaryTrees.Model.csproj",
+        "packagesPath": "/Users/admin/.nuget/packages/",
+        "outputPath": "/Users/admin/RiderProjects/BinaryTrees/BinaryTrees.Model/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/admin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/admin/.dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

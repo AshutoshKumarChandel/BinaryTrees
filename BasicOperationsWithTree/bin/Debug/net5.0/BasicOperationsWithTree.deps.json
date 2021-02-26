@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BasicOperationsWithTree/1.0.0": {
+        "dependencies": {
+          "BinaryTrees.Model": "1.0.0"
+        },
+        "runtime": {
+          "BasicOperationsWithTree.dll": {}
+        }
+      },
+      "BinaryTrees.Model/1.0.0": {
+        "runtime": {
+          "BinaryTrees.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BasicOperationsWithTree/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BinaryTrees.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
